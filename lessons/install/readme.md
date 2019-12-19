@@ -47,7 +47,7 @@ import sklearn
 
 Did you install Python 2 or 3? Why?  
 
->> ```python 3``` because 3 > 2 (I think)
+>> ```python 3``` because _numerically_ 3 > 2 (I think)
 
 ### Q2. Which Python Version Installed   
 
